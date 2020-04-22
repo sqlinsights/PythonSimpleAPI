@@ -1,0 +1,5 @@
+connectionStrings:
+    server: localhost,1500
+    database: AdventureWorks2017
+    userid: sa
+    password: Test12345!
